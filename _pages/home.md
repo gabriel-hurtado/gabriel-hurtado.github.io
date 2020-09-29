@@ -3,6 +3,10 @@ permalink: /
 title: "About"
 ---
 
-AI Research Engineer at HUAWEI Paris since June 2018
+I am Gabriel J. Hurtado, a Franco-Colombian research enginner, passionate about machine learning, and generative models.
 
-Working with top Machine Learning scientists on highly complex topics, mainly related to Reinforcement Learning. Developed generative algorithms in Python for an open-source frame-work with very promising initial results in a variety of applications (RAMP). Multiple papers will be submitted at top conferences based on this project, one currently reviewed at ICLR.
+I graduated in 2018 from a Masters at Georgia Tech, and from a engineer diploma at the Université de Technologie de Compiègne.
+
+Since then, I have been working as a Research Engineer at HUAWEI Paris. My principal focus right now is Reinforcement Learning, and leveraging generative models to solve it the model based way.
+
+I also contribute to open source projects, such as [RAMP](https://github.com/paris-saclay-cds/ramp-workflow)

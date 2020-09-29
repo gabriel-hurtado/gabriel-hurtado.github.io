@@ -73,13 +73,13 @@ author:
 footer:
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope-square icon-white"
       url: mailto:gabriel.j.hurtado@gmail.com
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-github icon-white"
       url: "https://github.com/gabriel-hurtado"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin icon-white"
       url: "https://www.linkedin.com/in/hurtadogabriel/?locale=en_US"
 
 defaults:

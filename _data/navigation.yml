@@ -1,7 +1,7 @@
 main:
   - title: "About"
-    url: /about/
-  - title: "Papers"
-    url: /papers/
+    url: https://gabriel-hurtado.github.io/about/
+  - title: "Publications"
+    url: https://gabriel-hurtado.github.io/publications/
   - title: "Posts"
-    url: /posts/
+    url: https://gabriel-hurtado.github.io/posts/

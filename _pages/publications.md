@@ -31,3 +31,9 @@ Monitored its smooth running with the rest of the team, checking student’s sub
  -  [Deep Learning for Sentiment Analysis](https://github.com/gabriel-hurtado/Sentiment-Analysis):
 		*I led a team of four students in a project involving standard machine learning techniques along with LSTM networks,
 		in Keras and Tensorflow. We focused studying customer reviews from Yelp. The model predicts scores of users’ comments with an average error of 0.4 out of 5 stars, and was able to understand comments both in English and in German.*
+
+ -	[Transformer Model](https://deepfrench.gitlab.io/deep-learning-project/):
+		*We propose an in-depth analysis and reimplementation of the Transformer model (Vaswani et al., NIPS 2017). Its non-recurrent behavior and sole use of attention makes it an intriguing model to analyze. We perform a hyper-parameters search, as well as a memory-profiling study, both of these allowing us to successfully train and semantically evaluate the model on the IWSLT TED Translation task.* 
+		
+ -	[Carbon Monoxide]( https://deepfrench.gitlab.io/data-visualisation-project/)
+ 		*Our goal was to create a visualization and prediction tool of Carbon Monoxide (CO) levels in the United States, and show correlation with other local phenomenon by enriching our data with various source datasets.*

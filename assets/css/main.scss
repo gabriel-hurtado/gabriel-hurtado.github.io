@@ -9,6 +9,13 @@ $link-color: #e07b39;
   color: white !important;
 }
 
+.sidebar {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   // other properties follow
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 

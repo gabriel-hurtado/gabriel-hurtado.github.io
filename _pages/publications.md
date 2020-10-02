@@ -16,7 +16,7 @@ Monitored its smooth running with the rest of the team, checking student’s sub
 
 
 
-## Papers
+## Papers and projects
 
  -  [Deep Learning for style
        transfer](https://gabriel-hurtado.github.io/assets/pdfs/style.pdf):
@@ -25,4 +25,9 @@ Monitored its smooth running with the rest of the team, checking student’s sub
        International Conference on Precision agriculture*
 
        ![Comparison of synthetic data. (left to right) Top: 2015 data and the conversion to BW. Bottom: matching 1955 data and the stylized 2015 data.](https://gabriel-hurtado.github.io/assets/images/style/figure.jpg)
+
 		*Top: 2015 data and the conversion to BW. Bottom: matching 1955 data and the stylized 2015 data generated*
+
+ -  [Deep Learning for Sentiment Analysis](https://github.com/gabriel-hurtado/Sentiment-Analysis):
+		*I led a team of four students in a project involving standard machine learning techniques along with LSTM networks,
+		in Keras and Tensorflow. We focused studying customer reviews from Yelp. The model predicts scores of users’ comments with an average error of 0.4 out of 5 stars, and was able to understand comments both in English and in German.*

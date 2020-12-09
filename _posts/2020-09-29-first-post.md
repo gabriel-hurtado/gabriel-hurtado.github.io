@@ -9,6 +9,10 @@ tags:
 
 This is my initial blog post, celebrating the creation of my website!
 
+I will keep it updated with my new publications, This is my initial blog post, celebrating the creation of my website!
+
 I will keep it updated with my new publications, experiements and findings.
+
+Meanwhile, you can learn more about me in the about section, or have a look at my resume and findings.
 
 Meanwhile, you can learn more about me in the [about section](https://gabriel-hurtado.github.io/), or have a look at my [resume](https://gabriel-hurtado.github.io/assets/pdfs/resume.pdf)

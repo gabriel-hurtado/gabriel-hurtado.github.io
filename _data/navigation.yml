@@ -3,7 +3,5 @@ main:
     url: /
   - title: "Publications"
     url: /publications/
-  - title: "Posts"
-    url: /posts/  
   - title: "Resume"
     url: "https://gabriel-hurtado.github.io/assets/pdfs/resume.pdf"

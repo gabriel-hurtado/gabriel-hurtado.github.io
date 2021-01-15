@@ -14,5 +14,4 @@ I also contribute to open source projects, such as [RAMP](https://github.com/par
 *Find out more about me:*
  -  [Publications](https://gabriel-hurtado.github.io/publications/)
  - [Resume](https://gabriel-hurtado.github.io/assets/pdfs/resume.pdf)
- - [Blog posts](https://gabriel-hurtado.github.io/posts/)
 	

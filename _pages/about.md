@@ -3,7 +3,7 @@ permalink: /
 title: "About"
 ---
 
-I am Gabriel J. Hurtado, a Franco-Colombian research engineer, passionate about machine learning, and generative models.
+I am Gabriel J. Hurtado, a Franco-Colombian Applied Researcher, passionate about machine learning, generative models and Transformers.
 
 I graduated in 2018 from a Master's at Georgia Tech, and from an engineer diploma at the Université de Technologie de Compiègne.
 

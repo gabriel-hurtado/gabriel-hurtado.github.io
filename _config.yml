@@ -16,8 +16,8 @@
 title: Gabriel J. Hurtado
 email: gabriel.j.hurtado@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal page of a Georgia Tech graduate working for Huawei doing machine learning.
-  You can find here my resume, papers and blog posts.
+  Personal page of a Georgia Tech graduate working for ElementAI doing machine learning.
+  You can find here my resume, papers and projects.
 github_username: gabriel-hurtado
 minimal_mistakes_skin: contrast
 
@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Gabriel J. Hurtado"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "AI Research Engineer at Huawei"
+  bio    : "Applied Research Scientist"
   location : "Paris, France"
   links:
     - label: "Email"

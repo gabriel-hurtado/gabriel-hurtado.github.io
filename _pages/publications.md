@@ -21,6 +21,15 @@ permalink: /publications/
        ![Comparison of synthetic data. (left to right) Top: 2015 data and the conversion to BW. Bottom: matching 1955 data and the stylized 2015 data.](https://gabriel-hurtado.github.io/assets/images/style/figure.jpg)
 		*Top: 2015 data and the conversion to BW. Bottom: matching 1955 data and the stylized 2015 data generated*
 
+- [Optical Character Recognition at ElementAI, a ServiceNow company](https://www.elementai.com/news/2020/information-extraction-from-2d-documents-a-hybrid-approach):
+	 *Leading a project on Optical Character Recognition (OCR). Extracting key ideas and tailoring Transformers for OCR and document recognition, already gaining 10% accuracy.*
+
+
+ - Face generation from low data - YOKAI.ai:
+	*Led a 4 month long freelance research project investigating the capabilities of GANs in very low data regime, generating
+		new photos of a given person from only around 50 images. The results were used to convince existing investors.*
+
+
  -  [Deep Learning for Sentiment Analysis](https://github.com/gabriel-hurtado/Sentiment-Analysis):
 		*I led a team of four students in a project involving standard machine learning techniques along with LSTM networks,
 		in Keras and Tensorflow. We focused studying customer reviews from Yelp. The model predicts scores of users’ comments with an average error of 0.4 out of 5 stars, and was able to understand comments both in English and in German.*
